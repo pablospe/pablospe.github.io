@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pablo Speciale on </title>
+    <link>https://speciale.com.ar/authors/pablo-speciale/</link>
+    <description>Recent content in Pablo Speciale on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://speciale.com.ar/authors/pablo-speciale/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Consensus Maximization for Semantic Region Correspondences</title>
+      <link>https://speciale.com.ar/publication/secon/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/publication/secon/</guid>
+      <description>Video   </description>
+    </item>
+    
+    <item>
+      <title>Consensus Maximization with Linear Matrix Inequality Constraints</title>
+      <link>https://speciale.com.ar/publication/conmax/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/publication/conmax/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Real-Time View Correction for Mobile Devices</title>
+      <link>https://speciale.com.ar/publication/view-correction/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/publication/view-correction/</guid>
+      <description>Video   </description>
+    </item>
+    
+    <item>
+      <title>Indoor Scan2BIM: Building Information Models of House Interiors</title>
+      <link>https://speciale.com.ar/publication/scan2bim/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/publication/scan2bim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Symmetry Prior for Convex Variational 3D Reconstruction</title>
+      <link>https://speciale.com.ar/publication/symrec/</link>
+      <pubDate>Sat, 08 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/publication/symrec/</guid>
+      <description>Video   </description>
+    </item>
+    
+    <item>
+      <title>Indoor-Outdoor 3D Reconstruction Alignment</title>
+      <link>https://speciale.com.ar/publication/in-n-out/</link>
+      <pubDate>Sat, 08 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/publication/in-n-out/</guid>
+      <description>Video   </description>
+    </item>
+    
+    <item>
+      <title>Turning mobile phones into 3D scanners</title>
+      <link>https://speciale.com.ar/publication/eth_mobile/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/publication/eth_mobile/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>
