@@ -3,8 +3,20 @@
   
     <url>
     
+      <loc>https://speciale.com.ar/publication/secureloc/</loc>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://speciale.com.ar/publication/secon/</loc>
       <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/project/security/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
     </url>
   
     <url>
@@ -70,7 +82,7 @@
     <url>
     
       <loc>https://speciale.com.ar/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -82,14 +94,14 @@
     <url>
     
       <loc>https://speciale.com.ar/publication_types/1/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://speciale.com.ar/tags/3d-reconstruction/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -150,7 +162,7 @@
     <url>
     
       <loc>https://speciale.com.ar/authors/johannes-l.-sch%C3%B6nberger/</loc>
-      <lastmod>2016-10-08T00:00:00+02:00</lastmod>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -171,7 +183,7 @@
     <url>
     
       <loc>https://speciale.com.ar/authors/marc-pollefeys/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -199,7 +211,7 @@
     <url>
     
       <loc>https://speciale.com.ar/authors/pablo-speciale/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -213,7 +225,7 @@
     <url>
     
       <loc>https://speciale.com.ar/tags/phd/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -224,22 +236,29 @@
   
     <url>
     
+      <loc>https://speciale.com.ar/tags/privacy-preserving/</loc>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://speciale.com.ar/project/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://speciale.com.ar/publication_types/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://speciale.com.ar/publication/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
     </url>
   
     <url>
@@ -263,6 +282,13 @@
   
     <url>
     
+      <loc>https://speciale.com.ar/authors/sing-bing-kang/</loc>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://speciale.com.ar/authors/srivathsan-murali/</loc>
       <lastmod>2017-05-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -270,8 +296,15 @@
   
     <url>
     
+      <loc>https://speciale.com.ar/authors/sudipta-n.-sinha/</loc>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://speciale.com.ar/tags/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   

@@ -6,10 +6,19 @@
     <description>Recent content in 1 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://speciale.com.ar/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Privacy Preserving Image-Based Localization</title>
+      <link>https://speciale.com.ar/publication/secureloc/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/publication/secureloc/</guid>
+      <description>Video comming soon&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Consensus Maximization for Semantic Region Correspondences</title>
