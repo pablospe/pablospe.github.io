@@ -15,8 +15,26 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.com.ar/publication/secureloc/</guid>
-      <description>&lt;p&gt;&lt;h3&gt;Video&lt;/h3&gt;
-&lt;b&gt;comming soon&amp;hellip;&lt;/b&gt;&lt;/p&gt;
+      <description>&lt;h3&gt;Video&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://www.cvg.ethz.ch/research/SecureLoc/paper/PSpeciale2019CVPR.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
 </description>
     </item>
     
