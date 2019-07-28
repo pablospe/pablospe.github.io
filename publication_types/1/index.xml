@@ -6,10 +6,19 @@
     <description>Recent content in 1 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://speciale.com.ar/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Privacy Preserving Image Queries for Camera Localization</title>
+      <link>https://speciale.com.ar/publication/securequery/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/publication/securequery/</guid>
+      <description>Video -- </description>
+    </item>
     
     <item>
       <title>Privacy Preserving Image-Based Localization</title>
@@ -35,7 +44,7 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.com.ar/publication/conmax/</guid>
-      <description>   </description>
+      <description>We show that the solution space can be reduced by introducing Linear Matrix Inequality (LMI) constraints. This leads to significant speed ups of the optimization time even for large amounts of outliers, while maintaining global optimality.</description>
     </item>
     
     <item>
@@ -80,7 +89,7 @@
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.com.ar/publication/eth_mobile/</guid>
-      <description>   </description>
+      <description>Allows users to build interactively 3D models of real-world environments with mobile phones.</description>
     </item>
     
   </channel>
