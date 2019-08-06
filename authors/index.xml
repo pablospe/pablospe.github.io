@@ -6,53 +6,17 @@
     <description>Recent content in Authors on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 08 Oct 2016 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://speciale.com.ar/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Johannes L. Schönberger</title>
-      <link>https://speciale.com.ar/authors/johannes-l.-sch%C3%B6nberger/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      <title>Andrea Cohen</title>
+      <link>https://speciale.com.ar/authors/andrea-cohen/</link>
+      <pubDate>Sat, 08 Oct 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/authors/johannes-l.-sch%C3%B6nberger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marc Pollefeys</title>
-      <link>https://speciale.com.ar/authors/marc-pollefeys/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.com.ar/authors/marc-pollefeys/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pablo Speciale</title>
-      <link>https://speciale.com.ar/authors/pablo-speciale/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.com.ar/authors/pablo-speciale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sudipta N. Sinha</title>
-      <link>https://speciale.com.ar/authors/sudipta-n.-sinha/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.com.ar/authors/sudipta-n.-sinha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sing Bing Kang</title>
-      <link>https://speciale.com.ar/authors/sing-bing-kang/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.com.ar/authors/sing-bing-kang/</guid>
+      <guid>https://speciale.com.ar/authors/andrea-cohen/</guid>
       <description></description>
     </item>
     
@@ -75,69 +39,6 @@
     </item>
     
     <item>
-      <title>Luc V. Gool</title>
-      <link>https://speciale.com.ar/authors/luc-v.-gool/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.com.ar/authors/luc-v.-gool/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Martin R. Oswald</title>
-      <link>https://speciale.com.ar/authors/martin-r.-oswald/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.com.ar/authors/martin-r.-oswald/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Till Kroeger</title>
-      <link>https://speciale.com.ar/authors/till-kroeger/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.com.ar/authors/till-kroeger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shuoran Yang</title>
-      <link>https://speciale.com.ar/authors/shuoran-yang/</link>
-      <pubDate>Mon, 08 May 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.com.ar/authors/shuoran-yang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thomas Schöps</title>
-      <link>https://speciale.com.ar/authors/thomas-sch%C3%B6ps/</link>
-      <pubDate>Mon, 08 May 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.com.ar/authors/thomas-sch%C3%B6ps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Srivathsan Murali</title>
-      <link>https://speciale.com.ar/authors/srivathsan-murali/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.com.ar/authors/srivathsan-murali/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Andrea Cohen</title>
-      <link>https://speciale.com.ar/authors/andrea-cohen/</link>
-      <pubDate>Sat, 08 Oct 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.com.ar/authors/andrea-cohen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jan-Michael Frahm</title>
       <link>https://speciale.com.ar/authors/jan-michael-frahm/</link>
       <pubDate>Sat, 08 Oct 2016 00:00:00 +0200</pubDate>
@@ -147,11 +48,11 @@
     </item>
     
     <item>
-      <title>Torsten Sattler</title>
-      <link>https://speciale.com.ar/authors/torsten-sattler/</link>
-      <pubDate>Sat, 08 Oct 2016 00:00:00 +0200</pubDate>
+      <title>Johannes L. Schönberger</title>
+      <link>https://speciale.com.ar/authors/johannes-l.-sch%C3%B6nberger/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/authors/torsten-sattler/</guid>
+      <guid>https://speciale.com.ar/authors/johannes-l.-sch%C3%B6nberger/</guid>
       <description></description>
     </item>
     
@@ -165,11 +66,110 @@
     </item>
     
     <item>
+      <title>Luc V. Gool</title>
+      <link>https://speciale.com.ar/authors/luc-v.-gool/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/authors/luc-v.-gool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marc Pollefeys</title>
+      <link>https://speciale.com.ar/authors/marc-pollefeys/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/authors/marc-pollefeys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin R. Oswald</title>
+      <link>https://speciale.com.ar/authors/martin-r.-oswald/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/authors/martin-r.-oswald/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pablo Speciale</title>
+      <link>https://speciale.com.ar/authors/pablo-speciale/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/authors/pablo-speciale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Petri Tanskanen</title>
       <link>https://speciale.com.ar/authors/petri-tanskanen/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.com.ar/authors/petri-tanskanen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuoran Yang</title>
+      <link>https://speciale.com.ar/authors/shuoran-yang/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/authors/shuoran-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sing Bing Kang</title>
+      <link>https://speciale.com.ar/authors/sing-bing-kang/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/authors/sing-bing-kang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Srivathsan Murali</title>
+      <link>https://speciale.com.ar/authors/srivathsan-murali/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/authors/srivathsan-murali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sudipta N. Sinha</title>
+      <link>https://speciale.com.ar/authors/sudipta-n.-sinha/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/authors/sudipta-n.-sinha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Schöps</title>
+      <link>https://speciale.com.ar/authors/thomas-sch%C3%B6ps/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/authors/thomas-sch%C3%B6ps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Till Kroeger</title>
+      <link>https://speciale.com.ar/authors/till-kroeger/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/authors/till-kroeger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Torsten Sattler</title>
+      <link>https://speciale.com.ar/authors/torsten-sattler/</link>
+      <pubDate>Sat, 08 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/authors/torsten-sattler/</guid>
       <description></description>
     </item>
     
