@@ -14,7 +14,26 @@
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.com.ar/publication/securequery/</guid>
-      <description>&lt;!-- &lt;h3&gt;Video&lt;/h3&gt; --&gt;
+      <description>&lt;h3&gt;Video&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://www.cvg.ethz.ch/research/SecureQuery/paper/PSpeciale2019ICCV_oral.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
 </description>
     </item>
     
