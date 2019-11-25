@@ -21,33 +21,6 @@
     </item>
     
     <item>
-      <title>PhD</title>
-      <link>https://speciale.com.ar/tags/phd/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.com.ar/tags/phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Preserving</title>
-      <link>https://speciale.com.ar/tags/privacy-preserving/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.com.ar/tags/privacy-preserving/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimization</title>
-      <link>https://speciale.com.ar/tags/optimization/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.com.ar/tags/optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Computational Photography</title>
       <link>https://speciale.com.ar/tags/computational-photography/</link>
       <pubDate>Mon, 08 May 2017 00:00:00 +0200</pubDate>
@@ -66,11 +39,29 @@
     </item>
     
     <item>
-      <title>sfm</title>
-      <link>https://speciale.com.ar/tags/sfm/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0100</pubDate>
+      <title>Optimization</title>
+      <link>https://speciale.com.ar/tags/optimization/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/tags/sfm/</guid>
+      <guid>https://speciale.com.ar/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD</title>
+      <link>https://speciale.com.ar/tags/phd/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/tags/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Preserving</title>
+      <link>https://speciale.com.ar/tags/privacy-preserving/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/tags/privacy-preserving/</guid>
       <description></description>
     </item>
     
@@ -80,6 +71,15 @@
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.com.ar/tags/slam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sfm</title>
+      <link>https://speciale.com.ar/tags/sfm/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://speciale.com.ar/tags/sfm/</guid>
       <description></description>
     </item>
     

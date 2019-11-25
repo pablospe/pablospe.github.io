@@ -6,10 +6,19 @@
     <description>Recent content in Publications on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://speciale.com.ar/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PhD Thesis: Novel Geometric Constraints for 3D Computer Vision Applications</title>
+      <link>https://speciale.com.ar/publication/phd_thesis/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/publication/phd_thesis/</guid>
+      <description>Abstract Geometric constraints on feature points has a long-standing history in 3D Computer Vision among experts. In contrast, we aim to study higher-level primitives other than points – such as lines, planes and ellipsoids – and create novel geometric constraints that allow us to express interesting restrictions and solve new 3D Vision problems. Towards this end, we explore a variety of applications in which we are able to apply geometrical priors using these primitives and find innovative solutions.</description>
+    </item>
     
     <item>
       <title>Privacy Preserving Image Queries for Camera Localization</title>
@@ -44,7 +53,7 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.com.ar/publication/conmax/</guid>
-      <description>We show that the solution space can be reduced by introducing Linear Matrix Inequality (LMI) constraints. This leads to significant speed ups of the optimization time even for large amounts of outliers, while maintaining global optimality.</description>
+      <description>   </description>
     </item>
     
     <item>
@@ -89,7 +98,7 @@
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.com.ar/publication/eth_mobile/</guid>
-      <description>Allows users to build interactively 3D models of real-world environments with mobile phones.</description>
+      <description>   </description>
     </item>
     
   </channel>
