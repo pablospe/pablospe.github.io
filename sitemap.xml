@@ -1,10 +1,85 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/</loc>
+      <lastmod>2019-08-19T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/publication_types/1/</loc>
+      <lastmod>2019-08-19T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/authors/</loc>
+      <lastmod>2019-08-19T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/authors/pablo-speciale/</loc>
+      <lastmod>2019-08-19T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
   
     <url>
     
       <loc>https://speciale.com.ar/publication/phd_thesis/</loc>
       <lastmod>2019-08-19T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/publication_types/</loc>
+      <lastmod>2019-08-19T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/publication/</loc>
+      <lastmod>2019-08-19T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/tags/3d-reconstruction/</loc>
+      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/authors/johannes-l.-sch%C3%B6nberger/</loc>
+      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/authors/marc-pollefeys/</loc>
+      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/tags/phd/</loc>
+      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/tags/privacy-preserving/</loc>
+      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -15,8 +90,29 @@
   
     <url>
     
+      <loc>https://speciale.com.ar/authors/sudipta-n.-sinha/</loc>
+      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/tags/</loc>
+      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://speciale.com.ar/publication/secureloc/</loc>
       <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/authors/sing-bing-kang/</loc>
+      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -27,8 +123,50 @@
   
     <url>
     
+      <loc>https://speciale.com.ar/authors/danda-p.-paudel/</loc>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/authors/hayko-riemenschneider/</loc>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/authors/luc-v.-gool/</loc>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/authors/martin-r.-oswald/</loc>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/tags/optimization/</loc>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://speciale.com.ar/project/privacy/</loc>
       <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/project/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -39,8 +177,43 @@
   
     <url>
     
+      <loc>https://speciale.com.ar/authors/till-kroeger/</loc>
+      <lastmod>2017-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/tags/computational-photography/</loc>
+      <lastmod>2017-05-08T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/tags/mobile/</loc>
+      <lastmod>2017-05-08T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://speciale.com.ar/publication/view-correction/</loc>
       <lastmod>2017-05-08T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/authors/shuoran-yang/</loc>
+      <lastmod>2017-05-08T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/authors/thomas-sch%C3%B6ps/</loc>
+      <lastmod>2017-05-08T00:00:00+02:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -51,8 +224,22 @@
   
     <url>
     
+      <loc>https://speciale.com.ar/authors/srivathsan-murali/</loc>
+      <lastmod>2017-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://speciale.com.ar/publication/symrec/</loc>
       <lastmod>2016-10-08T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/authors/andrea-cohen/</loc>
+      <lastmod>2016-10-08T00:00:00+02:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -63,14 +250,56 @@
   
     <url>
     
+      <loc>https://speciale.com.ar/authors/jan-michael-frahm/</loc>
+      <lastmod>2016-10-08T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/authors/torsten-sattler/</loc>
+      <lastmod>2016-10-08T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://speciale.com.ar/project/optimization/</loc>
       <lastmod>2016-01-01T00:00:00+01:00</lastmod>
     </url>
   
     <url>
     
+      <loc>https://speciale.com.ar/tags/sfm/</loc>
+      <lastmod>2015-12-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://speciale.com.ar/project/sfm/</loc>
       <lastmod>2015-12-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/authors/kalin-kolev/</loc>
+      <lastmod>2014-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/authors/petri-tanskanen/</loc>
+      <lastmod>2014-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/tags/slam/</loc>
+      <lastmod>2014-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -93,47 +322,12 @@
   
     <url>
     
-      <loc>https://speciale.com.ar/</loc>
-      <lastmod>2019-08-19T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>https://speciale.com.ar/author/admin/</loc>
     </url>
   
     <url>
     
-      <loc>https://speciale.com.ar/publication_types/1/</loc>
-      <lastmod>2019-08-19T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/tags/3d-reconstruction/</loc>
-      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/andrea-cohen/</loc>
-      <lastmod>2016-10-08T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>https://speciale.com.ar/author/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/</loc>
-      <lastmod>2016-10-08T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -145,132 +339,7 @@
   
     <url>
     
-      <loc>https://speciale.com.ar/tags/computational-photography/</loc>
-      <lastmod>2017-05-08T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/danda-p.-paudel/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/hayko-riemenschneider/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/jan-michael-frahm/</loc>
-      <lastmod>2016-10-08T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/johannes-l.-sch%C3%B6nberger/</loc>
-      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/kalin-kolev/</loc>
-      <lastmod>2014-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/luc-v.-gool/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/marc-pollefeys/</loc>
-      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/martin-r.-oswald/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/tags/mobile/</loc>
-      <lastmod>2017-05-08T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/tags/optimization/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/pablo-speciale/</loc>
-      <lastmod>2019-08-19T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/petri-tanskanen/</loc>
-      <lastmod>2014-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/tags/phd/</loc>
-      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>https://speciale.com.ar/post/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/tags/privacy-preserving/</loc>
-      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/project/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/publication_types/</loc>
-      <lastmod>2019-08-19T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/publication/</loc>
-      <lastmod>2019-08-19T00:00:00+02:00</lastmod>
     </url>
   
     <url>
@@ -280,77 +349,7 @@
   
     <url>
     
-      <loc>https://speciale.com.ar/tags/slam/</loc>
-      <lastmod>2014-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/shuoran-yang/</loc>
-      <lastmod>2017-05-08T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/sing-bing-kang/</loc>
-      <lastmod>2019-05-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/srivathsan-murali/</loc>
-      <lastmod>2017-05-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/sudipta-n.-sinha/</loc>
-      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/tags/</loc>
-      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/thomas-sch%C3%B6ps/</loc>
-      <lastmod>2017-05-08T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/till-kroeger/</loc>
-      <lastmod>2017-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/torsten-sattler/</loc>
-      <lastmod>2016-10-08T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>https://speciale.com.ar/authors/admin/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/tags/sfm/</loc>
-      <lastmod>2015-12-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
   
