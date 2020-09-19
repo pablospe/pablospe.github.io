@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Image-based localization is a core component of many augmented/mixed reality (AR/MR) and autonomous robotic systems. Current localization systems rely on the persistent storage of 3D point clouds of the scene to enable camera pose estimation, but such data reveals potentially sensitive scene information. This gives rise to significant privacy risks, especially as for many applications 3D mapping is a background process that the user might not be fully aware of. We pose the following question: How can we avoid disclosing confidential information about the captured 3D scene, and yet allow reliable camera pose estimation? This paper proposes the first solution to what we call privacy preserving image-based localization. The key idea of our approach is to lift the map representation from a 3D point cloud to a 3D line cloud. This novel representation obfuscates the underlying scene geometry while providing sufficient geometric constraints to enable robust and accurate 6-DOF camera pose estimation. Extensive experiments on several datasets and localization scenarios underline the high practical relevance of our proposed approach.">
+  <meta name="description" content="Over the last years, visual localization and mapping solutions have been adopted by an increasing number of mixed reality and robotics systems. The recent trend towards cloud-based localization and mapping systems has raised significant privacy concerns. These are mainly grounded by the fact that these services require users to upload visual data to their servers, which can reveal potentially confidential information, even if only derived image features are uploaded. Recent research addresses some of these concerns for the task of image-based localization by concealing the geometry of the query images and database maps. The core idea of the approach is to lift 2D/3D feature points to random lines, while still providing sufficient constraints for camera pose estimation. In this paper, we further build upon this idea and propose solutions to the different core algorithms of an incremental Structure-from-Motion pipeline based on random line features. With this work, we make another fundamental step towards enabling privacy preserving cloud-based mapping solutions. Various experiments on challenging real-world datasets demonstrate the practicality of our approach achieving comparable results to standard Structure-from-Motion systems.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://speciale.com.ar/publication/secureloc/">
+  <link rel="alternate" hreflang="en-us" href="https://speciale.com.ar/publication/privacypreservingsfm/">
 
   
 
@@ -106,7 +106,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://speciale.com.ar/publication/secureloc/">
+  <link rel="canonical" href="https://speciale.com.ar/publication/privacypreservingsfm/">
 
   
   
@@ -117,14 +117,14 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="">
-  <meta property="og:url" content="https://speciale.com.ar/publication/secureloc/">
-  <meta property="og:title" content="Privacy Preserving Image-Based Localization | ">
-  <meta property="og:description" content="Image-based localization is a core component of many augmented/mixed reality (AR/MR) and autonomous robotic systems. Current localization systems rely on the persistent storage of 3D point clouds of the scene to enable camera pose estimation, but such data reveals potentially sensitive scene information. This gives rise to significant privacy risks, especially as for many applications 3D mapping is a background process that the user might not be fully aware of. We pose the following question: How can we avoid disclosing confidential information about the captured 3D scene, and yet allow reliable camera pose estimation? This paper proposes the first solution to what we call privacy preserving image-based localization. The key idea of our approach is to lift the map representation from a 3D point cloud to a 3D line cloud. This novel representation obfuscates the underlying scene geometry while providing sufficient geometric constraints to enable robust and accurate 6-DOF camera pose estimation. Extensive experiments on several datasets and localization scenarios underline the high practical relevance of our proposed approach."><meta property="og:image" content="https://speciale.com.ar/publication/secureloc/featured.png">
+  <meta property="og:url" content="https://speciale.com.ar/publication/privacypreservingsfm/">
+  <meta property="og:title" content="Privacy Preserving Structure-from-Motion | ">
+  <meta property="og:description" content="Over the last years, visual localization and mapping solutions have been adopted by an increasing number of mixed reality and robotics systems. The recent trend towards cloud-based localization and mapping systems has raised significant privacy concerns. These are mainly grounded by the fact that these services require users to upload visual data to their servers, which can reveal potentially confidential information, even if only derived image features are uploaded. Recent research addresses some of these concerns for the task of image-based localization by concealing the geometry of the query images and database maps. The core idea of the approach is to lift 2D/3D feature points to random lines, while still providing sufficient constraints for camera pose estimation. In this paper, we further build upon this idea and propose solutions to the different core algorithms of an incremental Structure-from-Motion pipeline based on random line features. With this work, we make another fundamental step towards enabling privacy preserving cloud-based mapping solutions. Various experiments on challenging real-world datasets demonstrate the practicality of our approach achieving comparable results to standard Structure-from-Motion systems."><meta property="og:image" content="https://speciale.com.ar/publication/privacypreservingsfm/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-05-01T00:00:00&#43;02:00">
+  <meta property="article:published_time" content="2020-08-24T00:00:00&#43;02:00">
   
-  <meta property="article:modified_time" content="2019-05-01T00:00:00&#43;02:00">
+  <meta property="article:modified_time" content="2020-08-24T00:00:00&#43;02:00">
   
 
   
@@ -133,7 +133,7 @@
 
   <title>
     
-      Privacy Preserving Image-Based Localization
+      Privacy Preserving Structure-from-Motion
     
   </title>
 
@@ -311,7 +311,7 @@
   
   
 <div class="article-container pt-3">
-  <h2 itemprop="name">Privacy Preserving Image-Based Localization</h2>
+  <h2 itemprop="name">Privacy Preserving Structure-from-Motion</h2>
 
   
 
@@ -320,8 +320,8 @@
 
 
 
-<meta content="2019-05-01 00:00:00 &#43;0200 CEST" itemprop="datePublished">
-<meta content="2019-05-01 00:00:00 &#43;0200 CEST" itemprop="dateModified">
+<meta content="2020-08-24 00:00:00 &#43;0200 CEST" itemprop="datePublished">
+<meta content="2020-08-24 00:00:00 &#43;0200 CEST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -340,6 +340,20 @@
 
       
       
+      <a href="">Marcel Geppert</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Viktor Larsson</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
       <a href=""><u>Pablo Speciale</u></a></span></span>, 
   <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">
@@ -348,20 +362,6 @@
       
       
       <a href="">Johannes L. Schönberger</a></span></span>, 
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        
-
-      
-      
-      <a href="">Sing Bing Kang</a></span></span>, 
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        
-
-      
-      
-      <a href="">Sudipta N. Sinha</a></span></span>, 
   <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">
         
@@ -390,7 +390,7 @@
 
   
   
-    <div class="publication-short">CVPR&nbsp;2019</div>
+    <div class="publication-short">ECCV&nbsp;2020</div>
     <p style="margin: -1em"></p>
   
 
@@ -446,46 +446,44 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://www.cvg.ethz.ch/research/SecureLoc/paper/PSpeciale2019CVPR.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://cvg.ethz.ch/research/privacy-preserving-sfm/paper/Geppert2020ECCV_updated.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/secureloc/cite.bib">
+        data-filename="/publication/privacypreservingsfm/cite.bib">
   Cite
 </button>
 
 
 
-
-
-  
-
-  
-
-  
-
-
-
   
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://www.cvg.ethz.ch/research/SecureLoc/paper/PSpeciale2019CVPR_poster.pdf" target="_blank" rel="noopener">
-  Poster
+<a class="btn btn-outline-primary my-1 mr-1" href="https://cvg.ethz.ch/research/privacy-preserving-sfm/data/gatehouse.zip" target="_blank" rel="noopener">
+  Dataset
 </a>
 
 
 
+  
+
+  
+
+
+
+
+
 
 
   
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://www.cvg.ethz.ch/research/SecureLoc/paper/PSpeciale2019CVPR.mp4" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://cvg.ethz.ch/research/privacy-preserving-sfm/videos/Geppert2020ECCV_talk.mp4" target="_blank" rel="noopener">
   Video
 </a>
 
@@ -503,9 +501,9 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://www.cvg.ethz.ch/research/SecureLoc" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://cvg.ethz.ch/research/privacy-preserving-sfm/paper/Geppert2020ECCV_supp.pdf" target="_blank" rel="noopener">
     
-    Project Page (ETH)
+    PDF (suppl. material)
   </a>
 
   
@@ -519,9 +517,9 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://www.microsoft.com/en-us/research/blog/envisioning-privacy-preserving-image-based-localization-for-augmented-reality/" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://cvg.ethz.ch/research/privacy-preserving-sfm/" target="_blank" rel="noopener">
     
-    Blog (Microsoft)
+    Project Page (ETH)
   </a>
 
 
@@ -540,7 +538,7 @@
         .teaser { margin-top: 1.5cm; margin-bottom: 1.2cm; }
       </style>
       <div class="teaser">
-        <img src="teaser.jpg" itemprop="image" alt="">
+        <img src="teaser.png" itemprop="image" alt="">
       </div>
     
 
@@ -563,7 +561,7 @@
       }
     </style>
     <article lang="en">
-      <p class="pub-abstract" itemprop="text">Image-based localization is a core component of many augmented/mixed reality (AR/MR) and autonomous robotic systems. Current localization systems rely on the persistent storage of 3D point clouds of the scene to enable camera pose estimation, but such data reveals potentially sensitive scene information. This gives rise to significant privacy risks, especially as for many applications 3D mapping is a background process that the user might not be fully aware of. We pose the following question: How can we avoid disclosing confidential information about the captured 3D scene, and yet allow reliable camera pose estimation? This paper proposes the first solution to what we call privacy preserving image-based localization. The key idea of our approach is to lift the map representation from a 3D point cloud to a 3D line cloud. This novel representation obfuscates the underlying scene geometry while providing sufficient geometric constraints to enable robust and accurate 6-DOF camera pose estimation. Extensive experiments on several datasets and localization scenarios underline the high practical relevance of our proposed approach.</p>
+      <p class="pub-abstract" itemprop="text">Over the last years, visual localization and mapping solutions have been adopted by an increasing number of mixed reality and robotics systems. The recent trend towards cloud-based localization and mapping systems has raised significant privacy concerns. These are mainly grounded by the fact that these services require users to upload visual data to their servers, which can reveal potentially confidential information, even if only derived image features are uploaded. Recent research addresses some of these concerns for the task of image-based localization by concealing the geometry of the query images and database maps. The core idea of the approach is to lift 2D/3D feature points to random lines, while still providing sufficient constraints for camera pose estimation. In this paper, we further build upon this idea and propose solutions to the different core algorithms of an incremental Structure-from-Motion pipeline based on random line features. With this work, we make another fundamental step towards enabling privacy preserving cloud-based mapping solutions. Various experiments on challenging real-world datasets demonstrate the practicality of our approach achieving comparable results to standard Structure-from-Motion systems.</p>
     </article>
     
 
@@ -572,6 +570,12 @@
     <div class="space-below"></div>
 
     <div class="article-style"><h3>Video</h3>
+
+<h2>ECCV Magazine Edition</h2>
+
+<p><a href="https://www.rsipvision.com/ECCV2020-Thursday/#page=4" class="fbp-embed"  data-fbp-lightbox="yes" data-fbp-width="640px" data-fbp-height="480px"  data-fbp-method="site"   data-fbp-version="2020.2.2"   style="max-width: 100%">ECCV 2020 Daily - Thursday</a><script async defer src="https://www.rsipvision.com/ECCV2020-Thursday/files/html/static/embed.js?uni=62645ad290e72dbe0614b825d4456109"></script></p>
+
+<h2>ECCV Short Video</h2>
 
 
 
@@ -589,7 +593,28 @@
 
 
 <video controls >
-  <source src="https://www.cvg.ethz.ch/research/SecureLoc/paper/PSpeciale2019CVPR.mp4" type="video/mp4">
+  <source src="https://cvg.ethz.ch/research/privacy-preserving-sfm/videos/Geppert2020ECCV_short.mp4" type="video/mp4">
+</video>
+
+<h2>ECCV Full Video</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<video controls >
+  <source src="https://cvg.ethz.ch/research/privacy-preserving-sfm/videos/Geppert2020ECCV_talk.mp4" type="video/mp4">
 </video>
 </div>
 
@@ -601,8 +626,6 @@
   <a class="badge badge-light" href="">Privacy Preserving</a>
   
   <a class="badge badge-light" href="">3D Reconstruction</a>
-  
-  <a class="badge badge-light" href="/tags/phd/">PhD</a>
   
 </div>
 

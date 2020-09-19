@@ -5,8 +5,64 @@
     <description>Recent content on </description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Privacy Preserving Structure-from-Motion</title>
+      <link>https://speciale.com.ar/publication/privacypreservingsfm/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/publication/privacypreservingsfm/</guid>
+      <description>&lt;h3&gt;Video&lt;/h3&gt;
+
+&lt;h2&gt;ECCV Magazine Edition&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.rsipvision.com/ECCV2020-Thursday/#page=4&#34; class=&#34;fbp-embed&#34;  data-fbp-lightbox=&#34;yes&#34; data-fbp-width=&#34;640px&#34; data-fbp-height=&#34;480px&#34;  data-fbp-method=&#34;site&#34;   data-fbp-version=&#34;2020.2.2&#34;   style=&#34;max-width: 100%&#34;&gt;ECCV 2020 Daily - Thursday&lt;/a&gt;&lt;script async defer src=&#34;https://www.rsipvision.com/ECCV2020-Thursday/files/html/static/embed.js?uni=62645ad290e72dbe0614b825d4456109&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2&gt;ECCV Short Video&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://cvg.ethz.ch/research/privacy-preserving-sfm/videos/Geppert2020ECCV_short.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+&lt;h2&gt;ECCV Full Video&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://cvg.ethz.ch/research/privacy-preserving-sfm/videos/Geppert2020ECCV_talk.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
     
     <item>
       <title>PhD Thesis: Novel Geometric Constraints for 3D Computer Vision Applications</title>
@@ -222,15 +278,6 @@ state-of-the-art.&lt;/p&gt;
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
       <guid>https://speciale.com.ar/project/mobile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PhD</title>
-      <link>https://speciale.com.ar/project/phd/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
-      <guid>https://speciale.com.ar/project/phd/</guid>
       <description></description>
     </item>
     

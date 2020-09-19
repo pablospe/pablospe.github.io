@@ -6,7 +6,7 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://speciale.com.ar/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>3D Reconstruction</title>
       <link>https://speciale.com.ar/tags/3d-reconstruction/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.com.ar/tags/3d-reconstruction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Preserving</title>
+      <link>https://speciale.com.ar/tags/privacy-preserving/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.com.ar/tags/privacy-preserving/</guid>
       <description></description>
     </item>
     
@@ -26,15 +35,6 @@
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.com.ar/tags/phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Preserving</title>
-      <link>https://speciale.com.ar/tags/privacy-preserving/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.com.ar/tags/privacy-preserving/</guid>
       <description></description>
     </item>
     

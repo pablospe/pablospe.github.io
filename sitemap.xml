@@ -3,28 +3,96 @@
     <url>
     
       <loc>https://speciale.com.ar/</loc>
-      <lastmod>2019-08-19T00:00:00+02:00</lastmod>
+      <lastmod>2020-08-24T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://speciale.com.ar/publication_types/1/</loc>
-      <lastmod>2019-08-19T00:00:00+02:00</lastmod>
+      <lastmod>2020-08-24T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/tags/3d-reconstruction/</loc>
+      <lastmod>2020-08-24T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://speciale.com.ar/authors/</loc>
-      <lastmod>2019-08-19T00:00:00+02:00</lastmod>
+      <lastmod>2020-08-24T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/authors/johannes-l.-sch%C3%B6nberger/</loc>
+      <lastmod>2020-08-24T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/authors/marc-pollefeys/</loc>
+      <lastmod>2020-08-24T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/authors/marcel-geppert/</loc>
+      <lastmod>2020-08-24T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://speciale.com.ar/authors/pablo-speciale/</loc>
-      <lastmod>2019-08-19T00:00:00+02:00</lastmod>
+      <lastmod>2020-08-24T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/tags/privacy-preserving/</loc>
+      <lastmod>2020-08-24T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/publication/privacypreservingsfm/</loc>
+      <lastmod>2020-08-24T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/publication_types/</loc>
+      <lastmod>2020-08-24T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/publication/</loc>
+      <lastmod>2020-08-24T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/tags/</loc>
+      <lastmod>2020-08-24T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://speciale.com.ar/authors/viktor-larsson/</loc>
+      <lastmod>2020-08-24T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -36,48 +104,7 @@
   
     <url>
     
-      <loc>https://speciale.com.ar/publication_types/</loc>
-      <lastmod>2019-08-19T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/publication/</loc>
-      <lastmod>2019-08-19T00:00:00+02:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/tags/3d-reconstruction/</loc>
-      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/johannes-l.-sch%C3%B6nberger/</loc>
-      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/authors/marc-pollefeys/</loc>
-      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>https://speciale.com.ar/tags/phd/</loc>
-      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/tags/privacy-preserving/</loc>
       <lastmod>2019-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -91,13 +118,6 @@
     <url>
     
       <loc>https://speciale.com.ar/authors/sudipta-n.-sinha/</loc>
-      <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://speciale.com.ar/tags/</loc>
       <lastmod>2019-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
