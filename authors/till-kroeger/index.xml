@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Till Kroeger on </title>
-    <link>https://speciale.com.ar/authors/till-kroeger/</link>
+    <link>https://speciale.ar/authors/till-kroeger/</link>
     <description>Recent content in Till Kroeger on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://speciale.com.ar/authors/till-kroeger/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://speciale.ar/authors/till-kroeger/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Consensus Maximization with Linear Matrix Inequality Constraints</title>
-      <link>https://speciale.com.ar/publication/conmax/</link>
+      <link>https://speciale.ar/publication/conmax/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/conmax/</guid>
+      <guid>https://speciale.ar/publication/conmax/</guid>
       <description>We show that the solution space can be reduced by introducing Linear Matrix Inequality (LMI) constraints. This leads to significant speed ups of the optimization time even for large amounts of outliers, while maintaining global optimality.</description>
     </item>
     

@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SLAM on </title>
-    <link>https://speciale.com.ar/tags/slam/</link>
+    <link>https://speciale.ar/tags/slam/</link>
     <description>Recent content in SLAM on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jul 2014 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://speciale.com.ar/tags/slam/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://speciale.ar/tags/slam/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Turning mobile phones into 3D scanners</title>
-      <link>https://speciale.com.ar/publication/eth_mobile/</link>
+      <link>https://speciale.ar/publication/eth_mobile/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/eth_mobile/</guid>
+      <guid>https://speciale.ar/publication/eth_mobile/</guid>
       <description>Allows users to build interactively 3D models of real-world environments with mobile phones.</description>
     </item>
     

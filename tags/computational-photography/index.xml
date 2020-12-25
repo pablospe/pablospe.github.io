@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computational Photography on </title>
-    <link>https://speciale.com.ar/tags/computational-photography/</link>
+    <link>https://speciale.ar/tags/computational-photography/</link>
     <description>Recent content in Computational Photography on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 May 2017 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://speciale.com.ar/tags/computational-photography/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://speciale.ar/tags/computational-photography/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Real-Time View Correction for Mobile Devices</title>
-      <link>https://speciale.com.ar/publication/view-correction/</link>
+      <link>https://speciale.ar/publication/view-correction/</link>
       <pubDate>Mon, 08 May 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/view-correction/</guid>
-      <description>Video   </description>
+      <guid>https://speciale.ar/publication/view-correction/</guid>
+      <description></description>
     </item>
     
   </channel>

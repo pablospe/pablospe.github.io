@@ -1,85 +1,85 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://speciale.com.ar/tags/</link>
+    <link>https://speciale.ar/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://speciale.com.ar/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://speciale.ar/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>3D Reconstruction</title>
-      <link>https://speciale.com.ar/tags/3d-reconstruction/</link>
+      <link>https://speciale.ar/tags/3d-reconstruction/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/tags/3d-reconstruction/</guid>
+      <guid>https://speciale.ar/tags/3d-reconstruction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy Preserving</title>
-      <link>https://speciale.com.ar/tags/privacy-preserving/</link>
+      <link>https://speciale.ar/tags/privacy-preserving/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/tags/privacy-preserving/</guid>
+      <guid>https://speciale.ar/tags/privacy-preserving/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PhD</title>
-      <link>https://speciale.com.ar/tags/phd/</link>
+      <link>https://speciale.ar/tags/phd/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/tags/phd/</guid>
+      <guid>https://speciale.ar/tags/phd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimization</title>
-      <link>https://speciale.com.ar/tags/optimization/</link>
+      <link>https://speciale.ar/tags/optimization/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/tags/optimization/</guid>
+      <guid>https://speciale.ar/tags/optimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational Photography</title>
-      <link>https://speciale.com.ar/tags/computational-photography/</link>
+      <link>https://speciale.ar/tags/computational-photography/</link>
       <pubDate>Mon, 08 May 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/tags/computational-photography/</guid>
+      <guid>https://speciale.ar/tags/computational-photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile</title>
-      <link>https://speciale.com.ar/tags/mobile/</link>
+      <link>https://speciale.ar/tags/mobile/</link>
       <pubDate>Mon, 08 May 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/tags/mobile/</guid>
+      <guid>https://speciale.ar/tags/mobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sfm</title>
-      <link>https://speciale.com.ar/tags/sfm/</link>
+      <link>https://speciale.ar/tags/sfm/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://speciale.com.ar/tags/sfm/</guid>
+      <guid>https://speciale.ar/tags/sfm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SLAM</title>
-      <link>https://speciale.com.ar/tags/slam/</link>
+      <link>https://speciale.ar/tags/slam/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/tags/slam/</guid>
+      <guid>https://speciale.ar/tags/slam/</guid>
       <description></description>
     </item>
     

@@ -1,113 +1,112 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on </title>
-    <link>https://speciale.com.ar/publication_types/1/</link>
+    <link>https://speciale.ar/publication_types/1/</link>
     <description>Recent content in 1 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://speciale.com.ar/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://speciale.ar/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Privacy Preserving Structure-from-Motion</title>
-      <link>https://speciale.com.ar/publication/privacypreservingsfm/</link>
+      <link>https://speciale.ar/publication/privacypreservingsfm/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/privacypreservingsfm/</guid>
-      <description>Video ECCV Magazine Edition ECCV 2020 Daily - Thursday
-ECCV Short Video  ECCV Full Video  </description>
+      <guid>https://speciale.ar/publication/privacypreservingsfm/</guid>
+      <description>ECCV 2020 Daily - Thursday  </description>
     </item>
     
     <item>
       <title>PhD Thesis: Novel Geometric Constraints for 3D Computer Vision Applications</title>
-      <link>https://speciale.com.ar/publication/phd_thesis/</link>
+      <link>https://speciale.ar/publication/phd_thesis/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/phd_thesis/</guid>
-      <description>Abstract Geometric constraints on feature points has a long-standing history in 3D Computer Vision among experts. In contrast, we aim to study higher-level primitives other than points – such as lines, planes and ellipsoids – and create novel geometric constraints that allow us to express interesting restrictions and solve new 3D Vision problems. Towards this end, we explore a variety of applications in which we are able to apply geometrical priors using these primitives and find innovative solutions.</description>
+      <guid>https://speciale.ar/publication/phd_thesis/</guid>
+      <description>Geometric constraints on feature points has a long-standing history in 3D Computer Vision among experts. In contrast, we aim to study higher-level primitives other than points – such as lines, planes and ellipsoids – and create novel geometric constraints that allow us to express interesting restrictions and solve new 3D Vision problems. Towards this end, we explore a variety of applications in which we are able to apply geometrical priors using these primitives and find innovative solutions.</description>
     </item>
     
     <item>
       <title>Privacy Preserving Image Queries for Camera Localization</title>
-      <link>https://speciale.com.ar/publication/securequery/</link>
+      <link>https://speciale.ar/publication/securequery/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/securequery/</guid>
-      <description>Video  </description>
+      <guid>https://speciale.ar/publication/securequery/</guid>
+      <description> </description>
     </item>
     
     <item>
       <title>Privacy Preserving Image-Based Localization</title>
-      <link>https://speciale.com.ar/publication/secureloc/</link>
+      <link>https://speciale.ar/publication/secureloc/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/secureloc/</guid>
-      <description>Video  </description>
+      <guid>https://speciale.ar/publication/secureloc/</guid>
+      <description> </description>
     </item>
     
     <item>
       <title>Consensus Maximization for Semantic Region Correspondences</title>
-      <link>https://speciale.com.ar/publication/secon/</link>
+      <link>https://speciale.ar/publication/secon/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/secon/</guid>
-      <description>Video   </description>
+      <guid>https://speciale.ar/publication/secon/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Consensus Maximization with Linear Matrix Inequality Constraints</title>
-      <link>https://speciale.com.ar/publication/conmax/</link>
+      <link>https://speciale.ar/publication/conmax/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/conmax/</guid>
+      <guid>https://speciale.ar/publication/conmax/</guid>
       <description>We show that the solution space can be reduced by introducing Linear Matrix Inequality (LMI) constraints. This leads to significant speed ups of the optimization time even for large amounts of outliers, while maintaining global optimality.</description>
     </item>
     
     <item>
       <title>Real-Time View Correction for Mobile Devices</title>
-      <link>https://speciale.com.ar/publication/view-correction/</link>
+      <link>https://speciale.ar/publication/view-correction/</link>
       <pubDate>Mon, 08 May 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/view-correction/</guid>
-      <description>Video   </description>
+      <guid>https://speciale.ar/publication/view-correction/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Indoor Scan2BIM: Building Information Models of House Interiors</title>
-      <link>https://speciale.com.ar/publication/scan2bim/</link>
+      <link>https://speciale.ar/publication/scan2bim/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/scan2bim/</guid>
+      <guid>https://speciale.ar/publication/scan2bim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Symmetry Prior for Convex Variational 3D Reconstruction</title>
-      <link>https://speciale.com.ar/publication/symrec/</link>
+      <link>https://speciale.ar/publication/symrec/</link>
       <pubDate>Sat, 08 Oct 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/symrec/</guid>
-      <description>Video   </description>
+      <guid>https://speciale.ar/publication/symrec/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Indoor-Outdoor 3D Reconstruction Alignment</title>
-      <link>https://speciale.com.ar/publication/in-n-out/</link>
+      <link>https://speciale.ar/publication/in-n-out/</link>
       <pubDate>Sat, 08 Oct 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/in-n-out/</guid>
-      <description>Video   </description>
+      <guid>https://speciale.ar/publication/in-n-out/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Turning mobile phones into 3D scanners</title>
-      <link>https://speciale.com.ar/publication/eth_mobile/</link>
+      <link>https://speciale.ar/publication/eth_mobile/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/eth_mobile/</guid>
+      <guid>https://speciale.ar/publication/eth_mobile/</guid>
       <description>Allows users to build interactively 3D models of real-world environments with mobile phones.</description>
     </item>
     

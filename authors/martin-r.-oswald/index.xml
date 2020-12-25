@@ -1,59 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Martin R. Oswald on </title>
-    <link>https://speciale.com.ar/authors/martin-r.-oswald/</link>
+    <link>https://speciale.ar/authors/martin-r.-oswald/</link>
     <description>Recent content in Martin R. Oswald on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://speciale.com.ar/authors/martin-r.-oswald/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://speciale.ar/authors/martin-r.-oswald/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Consensus Maximization for Semantic Region Correspondences</title>
-      <link>https://speciale.com.ar/publication/secon/</link>
+      <link>https://speciale.ar/publication/secon/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/secon/</guid>
-      <description>Video   </description>
+      <guid>https://speciale.ar/publication/secon/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Consensus Maximization with Linear Matrix Inequality Constraints</title>
-      <link>https://speciale.com.ar/publication/conmax/</link>
+      <link>https://speciale.ar/publication/conmax/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/conmax/</guid>
+      <guid>https://speciale.ar/publication/conmax/</guid>
       <description>We show that the solution space can be reduced by introducing Linear Matrix Inequality (LMI) constraints. This leads to significant speed ups of the optimization time even for large amounts of outliers, while maintaining global optimality.</description>
     </item>
     
     <item>
       <title>Real-Time View Correction for Mobile Devices</title>
-      <link>https://speciale.com.ar/publication/view-correction/</link>
+      <link>https://speciale.ar/publication/view-correction/</link>
       <pubDate>Mon, 08 May 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/view-correction/</guid>
-      <description>Video   </description>
+      <guid>https://speciale.ar/publication/view-correction/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Indoor Scan2BIM: Building Information Models of House Interiors</title>
-      <link>https://speciale.com.ar/publication/scan2bim/</link>
+      <link>https://speciale.ar/publication/scan2bim/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/scan2bim/</guid>
+      <guid>https://speciale.ar/publication/scan2bim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Symmetry Prior for Convex Variational 3D Reconstruction</title>
-      <link>https://speciale.com.ar/publication/symrec/</link>
+      <link>https://speciale.ar/publication/symrec/</link>
       <pubDate>Sat, 08 Oct 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://speciale.com.ar/publication/symrec/</guid>
-      <description>Video   </description>
+      <guid>https://speciale.ar/publication/symrec/</guid>
+      <description></description>
     </item>
     
   </channel>
