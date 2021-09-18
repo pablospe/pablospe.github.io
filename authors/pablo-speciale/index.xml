@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pablo Speciale on </title>
@@ -6,10 +6,19 @@
     <description>Recent content in Pablo Speciale on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://speciale.ar/authors/pablo-speciale/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Privacy Preserving Localization and Mapping from Uncalibrated Cameras</title>
+      <link>https://speciale.ar/publication/pp_loc_map/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.ar/publication/pp_loc_map/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Privacy Preserving Structure-from-Motion</title>
@@ -17,8 +26,7 @@
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.ar/publication/privacypreservingsfm/</guid>
-      <description>Video ECCV Magazine Edition ECCV 2020 Daily - Thursday
-ECCV Short Video  ECCV Full Video  </description>
+      <description>ECCV 2020 Daily - Thursday  </description>
     </item>
     
     <item>
@@ -27,7 +35,7 @@ ECCV Short Video  ECCV Full Video  </description>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.ar/publication/phd_thesis/</guid>
-      <description>Abstract Geometric constraints on feature points has a long-standing history in 3D Computer Vision among experts. In contrast, we aim to study higher-level primitives other than points – such as lines, planes and ellipsoids – and create novel geometric constraints that allow us to express interesting restrictions and solve new 3D Vision problems. Towards this end, we explore a variety of applications in which we are able to apply geometrical priors using these primitives and find innovative solutions.</description>
+      <description>Geometric constraints on feature points has a long-standing history in 3D Computer Vision among experts. In contrast, we aim to study higher-level primitives other than points – such as lines, planes and ellipsoids – and create novel geometric constraints that allow us to express interesting restrictions and solve new 3D Vision problems. Towards this end, we explore a variety of applications in which we are able to apply geometrical priors using these primitives and find innovative solutions.</description>
     </item>
     
     <item>
@@ -36,7 +44,7 @@ ECCV Short Video  ECCV Full Video  </description>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.ar/publication/securequery/</guid>
-      <description>Video  </description>
+      <description> </description>
     </item>
     
     <item>
@@ -45,7 +53,7 @@ ECCV Short Video  ECCV Full Video  </description>
       <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.ar/publication/secureloc/</guid>
-      <description>Video  </description>
+      <description> </description>
     </item>
     
     <item>
@@ -54,7 +62,7 @@ ECCV Short Video  ECCV Full Video  </description>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.ar/publication/secon/</guid>
-      <description>Video   </description>
+      <description></description>
     </item>
     
     <item>
@@ -72,7 +80,7 @@ ECCV Short Video  ECCV Full Video  </description>
       <pubDate>Mon, 08 May 2017 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.ar/publication/view-correction/</guid>
-      <description>Video   </description>
+      <description></description>
     </item>
     
     <item>
@@ -90,7 +98,7 @@ ECCV Short Video  ECCV Full Video  </description>
       <pubDate>Sat, 08 Oct 2016 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.ar/publication/symrec/</guid>
-      <description>Video   </description>
+      <description></description>
     </item>
     
     <item>
@@ -99,7 +107,7 @@ ECCV Short Video  ECCV Full Video  </description>
       <pubDate>Sat, 08 Oct 2016 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.ar/publication/in-n-out/</guid>
-      <description>Video   </description>
+      <description></description>
     </item>
     
     <item>
