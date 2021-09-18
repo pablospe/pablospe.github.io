@@ -6,7 +6,7 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://speciale.ar/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>3D Reconstruction</title>
       <link>https://speciale.ar/tags/3d-reconstruction/</link>
-      <pubDate>Sat, 19 Jun 2021 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0200</pubDate>
       
       <guid>https://speciale.ar/tags/3d-reconstruction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DepthMap Estimation</title>
+      <link>https://speciale.ar/tags/depthmap-estimation/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://speciale.ar/tags/depthmap-estimation/</guid>
       <description></description>
     </item>
     
