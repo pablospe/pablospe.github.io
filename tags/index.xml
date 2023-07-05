@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
@@ -6,7 +6,7 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://speciale.ar/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,81 +14,108 @@
     <item>
       <title>3D Reconstruction</title>
       <link>https://speciale.ar/tags/3d-reconstruction/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://speciale.ar/tags/3d-reconstruction/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DepthMap Estimation</title>
-      <link>https://speciale.ar/tags/depthmap-estimation/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.ar/tags/depthmap-estimation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Preserving</title>
-      <link>https://speciale.ar/tags/privacy-preserving/</link>
-      <pubDate>Sat, 19 Jun 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.ar/tags/privacy-preserving/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PhD</title>
-      <link>https://speciale.ar/tags/phd/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.ar/tags/phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimization</title>
-      <link>https://speciale.ar/tags/optimization/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://speciale.ar/tags/optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Computational Photography</title>
       <link>https://speciale.ar/tags/computational-photography/</link>
-      <pubDate>Mon, 08 May 2017 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://speciale.ar/tags/computational-photography/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Dataset</title>
+      <link>https://speciale.ar/tags/dataset/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://speciale.ar/tags/dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DepthMap Estimation</title>
+      <link>https://speciale.ar/tags/depthmap-estimation/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://speciale.ar/tags/depthmap-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HoloLens</title>
+      <link>https://speciale.ar/tags/hololens/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://speciale.ar/tags/hololens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mobile</title>
       <link>https://speciale.ar/tags/mobile/</link>
-      <pubDate>Mon, 08 May 2017 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://speciale.ar/tags/mobile/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>sfm</title>
-      <link>https://speciale.ar/tags/sfm/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0100</pubDate>
+      <title>Mobile Phones</title>
+      <link>https://speciale.ar/tags/mobile-phones/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://speciale.ar/tags/sfm/</guid>
+      <guid>https://speciale.ar/tags/mobile-phones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization</title>
+      <link>https://speciale.ar/tags/optimization/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://speciale.ar/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD</title>
+      <link>https://speciale.ar/tags/phd/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://speciale.ar/tags/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Preserving</title>
+      <link>https://speciale.ar/tags/privacy-preserving/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://speciale.ar/tags/privacy-preserving/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SLAM</title>
       <link>https://speciale.ar/tags/slam/</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>https://speciale.ar/tags/slam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sfm</title>
+      <link>https://speciale.ar/tags/sfm/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://speciale.ar/tags/sfm/</guid>
       <description></description>
     </item>
     

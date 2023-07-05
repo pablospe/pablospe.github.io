@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fangjinhua Wang on </title>
@@ -6,7 +6,7 @@
     <description>Recent content in Fangjinhua Wang on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://speciale.ar/authors/fangjinhua-wang/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>PatchmatchNet: Learned Multi-View Patchmatch Stereo</title>
       <link>https://speciale.ar/publication/patchmatchnet/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://speciale.ar/publication/patchmatchnet/</guid>
       <description></description>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luc V. Gool on </title>
@@ -6,7 +6,7 @@
     <description>Recent content in Luc V. Gool on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://speciale.ar/authors/luc-v.-gool/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,19 +14,19 @@
     <item>
       <title>Consensus Maximization for Semantic Region Correspondences</title>
       <link>https://speciale.ar/publication/secon/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://speciale.ar/publication/secon/</guid>
-      <description></description>
+      <description>Video   </description>
     </item>
     
     <item>
       <title>Consensus Maximization with Linear Matrix Inequality Constraints</title>
       <link>https://speciale.ar/publication/conmax/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://speciale.ar/publication/conmax/</guid>
-      <description>We show that the solution space can be reduced by introducing Linear Matrix Inequality (LMI) constraints. This leads to significant speed ups of the optimization time even for large amounts of outliers, while maintaining global optimality.</description>
+      <description>   </description>
     </item>
     
   </channel>

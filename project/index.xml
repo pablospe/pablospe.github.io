@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on </title>
@@ -6,7 +6,7 @@
     <description>Recent content in Projects on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://speciale.ar/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Privacy</title>
       <link>https://speciale.ar/project/privacy/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://speciale.ar/project/privacy/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Optimization</title>
       <link>https://speciale.ar/project/optimization/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://speciale.ar/project/optimization/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>sfm</title>
       <link>https://speciale.ar/project/sfm/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://speciale.ar/project/sfm/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Mobile</title>
       <link>https://speciale.ar/project/mobile/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>https://speciale.ar/project/mobile/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>PhD</title>
       <link>https://speciale.ar/project/phd/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://speciale.ar/project/phd/</guid>
       <description></description>

@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academic 4.1.0">
-  <meta name="generator" content="Hugo 0.68.3" />
+  <meta name="generator" content="Hugo 0.53" />
 
   
 
@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Geometric constraints on feature points has a long-standing history in 3D Computer Vision among experts. In contrast, we aim to study higher-level primitives other than points – such as lines, planes and ellipsoids – and create novel geometric constraints that allow us to express interesting restrictions and solve new 3D Vision problems. Towards this end, we explore a variety of applications in which we are able to apply geometrical priors using these primitives and find innovative solutions.">
+  <meta name="description" content="Abstract Geometric constraints on feature points has a long-standing history in 3D Computer Vision among experts. In contrast, we aim to study higher-level primitives other than points – such as lines, planes and ellipsoids – and create novel geometric constraints that allow us to express interesting restrictions and solve new 3D Vision problems. Towards this end, we explore a variety of applications in which we are able to apply geometrical priors using these primitives and find innovative solutions.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://speciale.ar/publication/phd_thesis/">
@@ -119,12 +119,12 @@
   <meta property="og:site_name" content="">
   <meta property="og:url" content="https://speciale.ar/publication/phd_thesis/">
   <meta property="og:title" content="PhD Thesis: Novel Geometric Constraints for 3D Computer Vision Applications | ">
-  <meta property="og:description" content="Geometric constraints on feature points has a long-standing history in 3D Computer Vision among experts. In contrast, we aim to study higher-level primitives other than points – such as lines, planes and ellipsoids – and create novel geometric constraints that allow us to express interesting restrictions and solve new 3D Vision problems. Towards this end, we explore a variety of applications in which we are able to apply geometrical priors using these primitives and find innovative solutions."><meta property="og:image" content="https://speciale.ar/publication/phd_thesis/featured.jpeg">
+  <meta property="og:description" content="Abstract Geometric constraints on feature points has a long-standing history in 3D Computer Vision among experts. In contrast, we aim to study higher-level primitives other than points – such as lines, planes and ellipsoids – and create novel geometric constraints that allow us to express interesting restrictions and solve new 3D Vision problems. Towards this end, we explore a variety of applications in which we are able to apply geometrical priors using these primitives and find innovative solutions."><meta property="og:image" content="https://speciale.ar/publication/phd_thesis/featured.jpeg">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-08-19T00:00:00&#43;02:00">
+  <meta property="article:published_time" content="2019-08-19T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2019-08-19T00:00:00&#43;02:00">
+  <meta property="article:modified_time" content="2019-08-19T00:00:00&#43;00:00">
   
 
   
@@ -324,8 +324,8 @@
 
 
 
-<meta content="2019-08-19 00:00:00 &#43;0200 CEST" itemprop="datePublished">
-<meta content="2019-08-19 00:00:00 &#43;0200 CEST" itemprop="dateModified">
+<meta content="2019-08-19 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2019-08-19 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -344,7 +344,7 @@
 
       
       
-      <a href=""><u>Pablo Speciale</u></a></span></span>
+      <a href="/authors/pablo-speciale/"><u>Pablo Speciale</u></a></span></span>
   
 
 
@@ -503,8 +503,8 @@
 
 
 
-<meta content="2019-08-19 00:00:00 &#43;0200 CEST" itemprop="datePublished">
-<meta content="2019-08-19 00:00:00 &#43;0200 CEST" itemprop="dateModified">
+<meta content="2019-08-19 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2019-08-19 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -523,7 +523,7 @@
 
       
       
-      <a href=""><u>Pablo Speciale</u></a></span></span>
+      <a href="/authors/pablo-speciale/"><u>Pablo Speciale</u></a></span></span>
   
 
 
@@ -673,20 +673,19 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"><!-- raw HTML omitted -->
+    <div class="article-style"><h3>Abstract</h3>
+
 <p><em>Geometric constraints</em> on feature points has a long-standing history in <em>3D Computer Vision</em> among experts. In contrast, we aim to study higher-level primitives other than points – such as <strong><em>lines</em></strong>, <strong><em>planes</em></strong> and <strong><em>ellipsoids</em></strong> – and create novel geometric constraints that allow us to express interesting restrictions and solve new 3D Vision problems. Towards this end, we explore a variety of applications in which we are able to apply geometrical priors using these primitives and find innovative solutions. Thus, we focus on three main components:</p>
+
 <ol>
-<li>
-<p><strong>Lines Constraints</strong>. We formulate a new research topic – called the privacy preserving image-based localization problem – and present the first solution by introducing the notion of 3D Line Clouds. It will be shown that this new representation hides the content of the scene and thereby protects user privacy, yet still provides sufficient geometric constraints to enable robust and accurate 6-DOF camera
-pose estimation from feature correspondences.</p>
-</li>
-<li>
-<p><strong>Planes Constraints</strong>. We introduce a novel geometric constraint using planes as a reflective symmetry prior for variational 3D surface reconstruction. Our method leverages symmetry information directly within a 3D reconstruction procedure in order to complete or denoise symmetric surface regions which have been partially occluded or where the input information has low quality. Opposed to the majority of 3D surface reconstruction methods which fit mini- mal surfaces in order to fill unobserved surface parts, our method favors solutions which align with symmetries and adhere to required smoothness properties at the same time. Similarly to how humans extrapolate occluded areas and 3D information from just a few view points, our method can hallucinate entire scene parts in unobserved areas, fill small holes, or denoise observed surface geometry once a symmetry has been detected.</p>
-</li>
-<li>
-<p><strong>Ellipsoid and LMI Constraints</strong>. We propose a general global optimization framework for consensus maximization with Linear Matrix Inequality (LMI) constraints. Moreover, we derive several LMI constraints and demonstrate that a number of central computer vision problems can be cast into this form. In particular, we develop a method for the geometric registration of semantically labeled regions. We approximate these semantic regions with ellipsoids, and leverage their convexity to formulate the correspondence search effectively as a constrained global optimization problem that maximizes the number of matched regions. To this end, we also show that ellipsoid-to-ellipsoid assignments can be described as LMI restriction. Our approach is robust to large percentages of outliers and thus applicable to difficult correspondence search problems.</p>
-</li>
+<li><p><strong>Lines Constraints</strong>. We formulate a new research topic – called the privacy preserving image-based localization problem – and present the first solution by introducing the notion of 3D Line Clouds. It will be shown that this new representation hides the content of the scene and thereby protects user privacy, yet still provides sufficient geometric constraints to enable robust and accurate 6-DOF camera
+pose estimation from feature correspondences.</p></li>
+
+<li><p><strong>Planes Constraints</strong>. We introduce a novel geometric constraint using planes as a reflective symmetry prior for variational 3D surface reconstruction. Our method leverages symmetry information directly within a 3D reconstruction procedure in order to complete or denoise symmetric surface regions which have been partially occluded or where the input information has low quality. Opposed to the majority of 3D surface reconstruction methods which fit mini- mal surfaces in order to fill unobserved surface parts, our method favors solutions which align with symmetries and adhere to required smoothness properties at the same time. Similarly to how humans extrapolate occluded areas and 3D information from just a few view points, our method can hallucinate entire scene parts in unobserved areas, fill small holes, or denoise observed surface geometry once a symmetry has been detected.</p></li>
+
+<li><p><strong>Ellipsoid and LMI Constraints</strong>. We propose a general global optimization framework for consensus maximization with Linear Matrix Inequality (LMI) constraints. Moreover, we derive several LMI constraints and demonstrate that a number of central computer vision problems can be cast into this form. In particular, we develop a method for the geometric registration of semantically labeled regions. We approximate these semantic regions with ellipsoids, and leverage their convexity to formulate the correspondence search effectively as a constrained global optimization problem that maximizes the number of matched regions. To this end, we also show that ellipsoid-to-ellipsoid assignments can be described as LMI restriction. Our approach is robust to large percentages of outliers and thus applicable to difficult correspondence search problems.</p></li>
 </ol>
+
 <p>For all contributions, we present real and synthetic experiments that
 validate each method and provide insights into their usefulness w.r.t. the
 state-of-the-art.</p>
@@ -724,10 +723,6 @@ state-of-the-art.</p>
 
 <div class="container">
   <footer class="site-footer">
-  
-  <p class="powered-by">
-    <a href="/project/privacy/">Privacy</a>
-  </p>
   
 
   <p class="powered-by">
@@ -873,7 +868,7 @@ state-of-the-art.</p>
     
     
     
-    <script src="/js/academic.min.1846cc5c27f3006b56814095ec02281f.js"></script>
+    <script src="/js/academic.min.d7381f2d79e6271d4da28f474f49096c.js"></script>
 
   </body>
 </html>

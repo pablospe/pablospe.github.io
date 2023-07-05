@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lukas Gruber on </title>
+    <link>https://speciale.ar/authors/lukas-gruber/</link>
+    <description>Recent content in Lukas Gruber on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://speciale.ar/authors/lukas-gruber/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LaMAR: Benchmarking Localization and Mapping for AR</title>
+      <link>https://speciale.ar/publication/lamar/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://speciale.ar/publication/lamar/</guid>
+      <description>Video  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobile on </title>
@@ -6,7 +6,7 @@
     <description>Recent content in Mobile on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 May 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://speciale.ar/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,16 @@
     <item>
       <title>Real-Time View Correction for Mobile Devices</title>
       <link>https://speciale.ar/publication/view-correction/</link>
-      <pubDate>Mon, 08 May 2017 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://speciale.ar/publication/view-correction/</guid>
-      <description></description>
+      <description>Video   </description>
     </item>
     
     <item>
       <title>Indoor Scan2BIM: Building Information Models of House Interiors</title>
       <link>https://speciale.ar/publication/scan2bim/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://speciale.ar/publication/scan2bim/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Mobile</title>
       <link>https://speciale.ar/project/mobile/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>https://speciale.ar/project/mobile/</guid>
       <description></description>

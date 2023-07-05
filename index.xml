@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
@@ -5,52 +6,278 @@
     <description>Recent content on </description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Publications</title>
-      <link>https://speciale.ar/publication/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0200</pubDate>
+      <title>LaMAR: Benchmarking Localization and Mapping for AR</title>
+      <link>https://speciale.ar/publication/lamar/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://speciale.ar/publication/</guid>
+      <guid>https://speciale.ar/publication/lamar/</guid>
+      <description>&lt;h3&gt;Video&lt;/h3&gt;
+
+&lt;iframe width=&#34;700&#34; height=&#34;400&#34; src=&#34;https://www.youtube.com/embed/32XsRli2coo&#34; title=&#34;[ECCV 2022] LaMAR: Benchmarking Localization and Mapping for Augmented Reality&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PatchmatchNet: Learned Multi-View Patchmatch Stereo</title>
+      <link>https://speciale.ar/publication/patchmatchnet/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://speciale.ar/publication/patchmatchnet/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://speciale.ar/project/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <title>DeepVideoMVS: Multi-View Stereo on Video With Recurrent Spatio-Temporal Fusion</title>
+      <link>https://speciale.ar/publication/deep-video-mvs/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://speciale.ar/project/</guid>
+      <guid>https://speciale.ar/publication/deep-video-mvs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Authors</title>
-      <link>https://speciale.ar/author/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Privacy Preserving Localization and Mapping from Uncalibrated Cameras</title>
+      <link>https://speciale.ar/publication/pp_loc_map/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://speciale.ar/author/</guid>
+      <guid>https://speciale.ar/publication/pp_loc_map/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://speciale.ar/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Privacy Preserving Structure-from-Motion</title>
+      <link>https://speciale.ar/publication/privacypreservingsfm/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://speciale.ar/post/</guid>
+      <guid>https://speciale.ar/publication/privacypreservingsfm/</guid>
+      <description>&lt;h3&gt;Video&lt;/h3&gt;
+
+&lt;h2&gt;ECCV Magazine Edition&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.rsipvision.com/ECCV2020-Thursday/#page=4&#34; class=&#34;fbp-embed&#34;  data-fbp-lightbox=&#34;yes&#34; data-fbp-width=&#34;640px&#34; data-fbp-height=&#34;480px&#34;  data-fbp-method=&#34;site&#34;   data-fbp-version=&#34;2020.2.2&#34;   style=&#34;max-width: 100%&#34;&gt;ECCV 2020 Daily - Thursday&lt;/a&gt;&lt;script async defer src=&#34;https://www.rsipvision.com/ECCV2020-Thursday/files/html/static/embed.js?uni=62645ad290e72dbe0614b825d4456109&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2&gt;ECCV Short Video&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://cvg.ethz.ch/research/privacy-preserving-sfm/videos/Geppert2020ECCV_short.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+&lt;h2&gt;ECCV Full Video&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://cvg.ethz.ch/research/privacy-preserving-sfm/videos/Geppert2020ECCV_talk.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD Thesis: Novel Geometric Constraints for 3D Computer Vision Applications</title>
+      <link>https://speciale.ar/publication/phd_thesis/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://speciale.ar/publication/phd_thesis/</guid>
+      <description>&lt;h3&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Geometric constraints&lt;/em&gt; on feature points has a long-standing history in &lt;em&gt;3D Computer Vision&lt;/em&gt; among experts. In contrast, we aim to study higher-level primitives other than points – such as &lt;strong&gt;&lt;em&gt;lines&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;planes&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;ellipsoids&lt;/em&gt;&lt;/strong&gt; – and create novel geometric constraints that allow us to express interesting restrictions and solve new 3D Vision problems. Towards this end, we explore a variety of applications in which we are able to apply geometrical priors using these primitives and find innovative solutions. Thus, we focus on three main components:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Lines Constraints&lt;/strong&gt;. We formulate a new research topic – called the privacy preserving image-based localization problem – and present the first solution by introducing the notion of 3D Line Clouds. It will be shown that this new representation hides the content of the scene and thereby protects user privacy, yet still provides sufficient geometric constraints to enable robust and accurate 6-DOF camera
+pose estimation from feature correspondences.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Planes Constraints&lt;/strong&gt;. We introduce a novel geometric constraint using planes as a reflective symmetry prior for variational 3D surface reconstruction. Our method leverages symmetry information directly within a 3D reconstruction procedure in order to complete or denoise symmetric surface regions which have been partially occluded or where the input information has low quality. Opposed to the majority of 3D surface reconstruction methods which fit mini- mal surfaces in order to fill unobserved surface parts, our method favors solutions which align with symmetries and adhere to required smoothness properties at the same time. Similarly to how humans extrapolate occluded areas and 3D information from just a few view points, our method can hallucinate entire scene parts in unobserved areas, fill small holes, or denoise observed surface geometry once a symmetry has been detected.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ellipsoid and LMI Constraints&lt;/strong&gt;. We propose a general global optimization framework for consensus maximization with Linear Matrix Inequality (LMI) constraints. Moreover, we derive several LMI constraints and demonstrate that a number of central computer vision problems can be cast into this form. In particular, we develop a method for the geometric registration of semantically labeled regions. We approximate these semantic regions with ellipsoids, and leverage their convexity to formulate the correspondence search effectively as a constrained global optimization problem that maximizes the number of matched regions. To this end, we also show that ellipsoid-to-ellipsoid assignments can be described as LMI restriction. Our approach is robust to large percentages of outliers and thus applicable to difficult correspondence search problems.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For all contributions, we present real and synthetic experiments that
+validate each method and provide insights into their usefulness w.r.t. the
+state-of-the-art.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Preserving Image Queries for Camera Localization</title>
+      <link>https://speciale.ar/publication/securequery/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://speciale.ar/publication/securequery/</guid>
+      <description>&lt;h3&gt;Video&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://www.cvg.ethz.ch/research/SecureQuery/paper/PSpeciale2019ICCV_oral.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Preserving Image-Based Localization</title>
+      <link>https://speciale.ar/publication/secureloc/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://speciale.ar/publication/secureloc/</guid>
+      <description>&lt;h3&gt;Video&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://www.cvg.ethz.ch/research/SecureLoc/paper/PSpeciale2019CVPR.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consensus Maximization for Semantic Region Correspondences</title>
+      <link>https://speciale.ar/publication/secon/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://speciale.ar/publication/secon/</guid>
+      <description>&lt;p&gt;&lt;h3&gt;Video&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/jlM6iIvAImA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://speciale.ar/project/privacy/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://speciale.ar/project/privacy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://speciale.ar/talk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Consensus Maximization with Linear Matrix Inequality Constraints</title>
+      <link>https://speciale.ar/publication/conmax/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://speciale.ar/talk/</guid>
-      <description></description>
+      <guid>https://speciale.ar/publication/conmax/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/yV1wXknpG1U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Real-Time View Correction for Mobile Devices</title>
+      <link>https://speciale.ar/publication/view-correction/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://speciale.ar/publication/view-correction/</guid>
+      <description>&lt;p&gt;&lt;h3&gt;Video&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/2F7WpfbvnhU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Indoor Scan2BIM: Building Information Models of House Interiors</title>
+      <link>https://speciale.ar/publication/scan2bim/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://speciale.ar/publication/scan2bim/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;teaser.jpg&#34; itemprop=&#34;image&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Symmetry Prior for Convex Variational 3D Reconstruction</title>
+      <link>https://speciale.ar/publication/symrec/</link>
+      <pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://speciale.ar/publication/symrec/</guid>
+      <description>&lt;p&gt;&lt;h3&gt;Video&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/chYqoWHbgjY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Indoor-Outdoor 3D Reconstruction Alignment</title>
+      <link>https://speciale.ar/publication/in-n-out/</link>
+      <pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://speciale.ar/publication/in-n-out/</guid>
+      <description>&lt;p&gt;&lt;h3&gt;Video&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Gcig9f_Sp8c&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
     </item>
     
   </channel>
